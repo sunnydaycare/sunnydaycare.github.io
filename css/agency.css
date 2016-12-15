@@ -45,6 +45,7 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .img-centered {
   margin: 0 auto;
@@ -240,6 +241,8 @@ header {
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -248,6 +251,8 @@ header .intro-text .intro-lead-in {
   line-height: 22px;
   margin-bottom: 25px;
   color: black;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -256,6 +261,8 @@ header .intro-text .intro-heading {
   font-size: 50px;
   line-height: 50px;
   margin-bottom: 25px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 @media (min-width: 768px) {
   header .intro-text {
